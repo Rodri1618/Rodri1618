@@ -8,7 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=650&height=100&lines=Rodrigo+Dulanto+Tejeda;Junior+Software+Developer;Java+Spring+Boot+%7C+C%23+.NET+%7C+JavaScript;Web+Apps+%7C+REST+APIs+%7C+PWA;Clean+Code+%7C+Continuous+Learning" />
   </a>
 </p>
+<br>
 
+ ### 💫 About Me 
+<br />
+ I am a junior software developer focused on building functional and well-structured web applications. I enjoy solving real-world problems through clear, maintainable, and best-practice-oriented technological solutions.
 
 
 <br>
