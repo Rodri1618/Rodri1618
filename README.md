@@ -12,7 +12,7 @@
 
  ### 💫 About Me 
 <br />
- I am a junior software developer focused on building functional and well-structured web applications. I enjoy solving real-world problems through clear, maintainable, and best-practice-oriented technological solutions.
+ I am a software developer focused on building functional and well-structured web applications. I enjoy solving real-world problems through clear, maintainable, and best-practice-oriented technological solutions.
 
 
 <br>
